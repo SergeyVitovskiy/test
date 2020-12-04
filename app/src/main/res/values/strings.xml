@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APIcategory</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ссылка"><a href="https://www.avangard.ru/rus/docs/rules_cart_use_in_system_mobile_pays.pdf">Пользовательское соглашение</a></string>
+</resources>
